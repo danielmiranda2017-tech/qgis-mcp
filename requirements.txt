@@ -1,0 +1,5 @@
+# PyQGIS (paquete "qgis") NO se instala vía pip: viene con tu instalación de
+# QGIS Desktop/QGIS Server, o de un canal como conda-forge (paquete "qgis").
+# Este archivo solo lista lo que sí es un paquete normal de PyPI.
+
+mcp>=2.0.0

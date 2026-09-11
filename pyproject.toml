@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qgis-mcp"
+version = "0.1.0"
+description = "Servidor MCP headless para QGIS (PyQGIS standalone)"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=2.0.0",
+]
+
+[tool.setuptools]
+packages = ["qgis_mcp"]
