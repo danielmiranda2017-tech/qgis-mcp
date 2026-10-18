@@ -88,5 +88,24 @@ Register with Claude Code:
 
 ---
 
-Built by **Oscar Daniel Montero Miranda**. Independent project, not affiliated with the QGIS project. Code comments are in
-Spanish; docstrings mention internal design notes (`00-mcp-tools-y-modo-agente.md`) that are not part of this repository.
+## 🏛️ Autonomous Engineering Suite (Vectis Operations)
+
+`qgis-mcp` is part of an integrated, production-grade autonomous engineering ecosystem designed for AI coding agents (Claude Code, Cursor, Copilot). 
+
+The companion engines are available exclusively on **Agensi**:
+
+| Engine | Description | Marketplace Link |
+| :--- | :--- | :---: |
+| 🗺️ **QGIS Spatial Engine** | Headless PyQGIS Processing, spatial overlay & automated cartography | [Get on Agensi ($34)](https://agensi.io/skills/qgis-autonomous-spatial-engine) |
+| 🌊 **USACE HEC Hydro Suite** | Headless HEC-RAS (1D/2D unsteady flood) & HEC-HMS basin modeling | [Get on Agensi ($89)](https://agensi.io/skills/usace-hec-hydraulic-hydrologic-engine) |
+| 🚁 **WebODM Drone Engine** | Photogrammetry, dense point clouds, DSM/DTM & volume calculations | [Get on Agensi ($59)](https://agensi.io/skills/webodm-drone-photogrammetry-engine) |
+| 📐 **FreeCAD 3D CAD Engine** | Headless parametric 3D CAD, TechDraw drawings, SheetMetal & FEM | [Get on Agensi ($39)](https://agensi.io/skills/freecad-autonomous-engineering-engine) |
+
+Explore the complete verified creator catalogue: **[Vectis Operations on Agensi](https://agensi.io/creators/daniel-montero)**.
+
+---
+
+## License
+
+Copyright (c) 2026 Oscar Daniel Montero Miranda - Vectis Operations. All Rights Reserved.  
+Commercial deployment and verified autonomous execution rules are licensed via [Agensi](https://agensi.io/skills/qgis-autonomous-spatial-engine). See [LICENSE](LICENSE) for full details.

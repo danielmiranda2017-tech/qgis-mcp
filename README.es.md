@@ -169,3 +169,27 @@ qgis_mcp/
    de tools.
 3. Autenticación/permisos si el MCP alguna vez deja de ser 100% local (por
    ahora se asume uso local vía stdio, sin superficie de red expuesta).
+
+---
+
+## 🏛️ Ecosistema de Ingeniería Autónoma (Vectis Operations)
+
+`qgis-mcp` forma parte de una suite integral de ingeniería de grado de producción diseñada para agentes de IA (Claude Code, Cursor, Copilot). 
+
+Los módulos complementarios están disponibles de forma exclusiva en **Agensi**:
+
+| Módulo | Alcance Técnico | Enlace en Agensi |
+| :--- | :--- | :---: |
+| 🗺️ **QGIS Spatial Engine** | Operación headless de PyQGIS, Processing y cartografía automatizada | [Ver en Agensi ($34)](https://agensi.io/skills/qgis-autonomous-spatial-engine) |
+| 🌊 **USACE HEC Hydro Suite** | HEC-RAS 1D/2D no permanente & HEC-HMS modelación de cuencas | [Ver en Agensi ($89)](https://agensi.io/skills/usace-hec-hydraulic-hydrologic-engine) |
+| 🚁 **WebODM Drone Engine** | Fotogrametría aérea, nubes de puntos, DSM/DTM y cubicación de acopios | [Ver en Agensi ($59)](https://agensi.io/skills/webodm-drone-photogrammetry-engine) |
+| 📐 **FreeCAD 3D CAD Engine** | CAD paramétrico 3D, láminas TechDraw con cotas, Chapa y FEM | [Ver en Agensi ($39)](https://agensi.io/skills/freecad-autonomous-engineering-engine) |
+
+Explora el catálogo verificado de creador: **[Vectis Operations en Agensi](https://agensi.io/creators/daniel-montero)**.
+
+---
+
+## Licencia
+
+Copyright (c) 2026 Oscar Daniel Montero Miranda - Vectis Operations. Todos los derechos reservados.  
+El uso comercial y la ejecución agéntica verificada se licencian a través de [Agensi](https://agensi.io/skills/qgis-autonomous-spatial-engine). Consulta [LICENSE](LICENSE) para más detalles.
