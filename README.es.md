@@ -1,9 +1,14 @@
 # qgis-mcp
 
+[![Instalar vía Agensi](https://img.shields.io/badge/Agensi-Obtener%20Skill%20para%20Agentes-blue?style=for-the-badge&logo=anthropic)](https://agensi.io/skills/qgis-autonomous-spatial-engine)
+[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
+
 Servidor MCP headless para QGIS, construido sobre PyQGIS standalone
 (sin abrir QGIS Desktop). Implementa el set de tools y las reglas de
 operación descritas en `00-mcp-tools-y-modo-agente.md` y usa los ids de
 Processing catalogados en `18-ids-algoritmos-processing.md`.
+
+> 🚀 **Skill Oficial para Agentes de IA:** Para operar este servidor MCP de forma 100% autónoma en Claude Code, Cursor o Copilot con validación automática de CRS, flujos de recuperación de errores y reglas cartográficas, instala la skill oficial en [Agensi: QGIS Autonomous Spatial Engine](https://agensi.io/skills/qgis-autonomous-spatial-engine).
 
 **Este código está escrito para QGIS 4.x (en uso diario contra
 4.2.1), no 3.x.** QGIS 4.0 migró de Qt5 a Qt6, y PyQt6 exige enums "scoped"

@@ -1,7 +1,11 @@
 # qgis-mcp
 
-**A headless MCP server for QGIS 4.x: load layers, run Processing algorithms, style and export maps from Claude,
-without opening QGIS Desktop.**
+[![Install via Agensi](https://img.shields.io/badge/Agensi-Get%20Agent%20Skill-blue?style=for-the-badge&logo=anthropic)](https://agensi.io/skills/qgis-autonomous-spatial-engine)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**A headless MCP server for QGIS 4.x: load layers, run Processing algorithms, style and export maps from Claude, Cursor, and Copilot without opening QGIS Desktop.**
+
+> 🚀 **Official Agent Skill Available:** To operate this MCP server autonomously with complete error-recovery workflows, CRS auto-validation, and cartographic rules, install the official [QGIS Autonomous Spatial Engine Skill on Agensi](https://agensi.io/skills/qgis-autonomous-spatial-engine).
 
 Built on PyQGIS standalone and the [Model Context Protocol](https://modelcontextprotocol.io). It is in daily use with
 Claude Code against **QGIS 4.2.1** for spatial overlay work in environmental and mining projects (project area vs.
